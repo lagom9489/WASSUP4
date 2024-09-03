@@ -35,6 +35,6 @@
 |instagram|@exa_mart_|
 |e-mail|lagom_esg@naver.com|
 
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white"/>
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&text=GOOD-BYE👋&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
