@@ -33,7 +33,7 @@
 |연락수단|내용|
 |------|---|
 |<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white"/>|@exa_mart_|
-|e-mail|lagom_esg@naver.com|
+|<img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=naver&logoColor=white"/>|lagom_esg@naver.com|
 
 
 
