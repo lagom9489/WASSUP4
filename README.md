@@ -31,4 +31,4 @@
   4. 사내 서비스 정책 작성 및 legacy 분석
 
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Bi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&text=GOOD-BYE👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
