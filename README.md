@@ -1,6 +1,10 @@
 # WASSUP4
 ### ESTsoft AI서비스기획 전문가 양성 부트캠프 4기 기획자, 박지현
 
+|연락처|<br>
+|----|<br>
+|lagom_esg@naver.com|
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=add8e6&height=300&section=header&text=🥳HI!I'M%20JIHYEON!🥳&fontSize=70" />
 
 
