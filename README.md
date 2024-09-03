@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=add8e6&height=300&section=header&text=🥳HI!I'M%20JIHYEON!&fontSize=70" />
 
-# > 카카오모빌리티 사업기획팀 (2022.07 ~ 2024.03)
+> ## 카카오모빌리티 사업기획팀 (2022.07 ~ 2024.03)
 - 주요 업무 : 카카오 T 바이크 사업/서비스 기획 및 운영
 - 역할 및 담당<br>
   1. 카카오 T 바이크 월별 손익추정<br>
