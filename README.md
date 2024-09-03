@@ -1,7 +1,7 @@
 # WASSUP4
 ESTsoft AI서비스기획 전문가 양성 부트캠프 4기
 
-![header](https://capsule-render.vercel.app/api?type=wave&&fontColor=00076b&height=300&section=header&text=HI!I'M%20JIHYEON!&fontSize=100&textBg=true&animation=fadeIN)
+![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=00076b&height=300&section=header&text=HI!I'M%20JIHYEON!&fontSize=100)
 
 > 카카오모빌리티 사업기획팀 (2022.07 ~ 2024.03)
 - 주요 업무 : 카카오 T 바이크 사업/서비스 기획 및 운영
