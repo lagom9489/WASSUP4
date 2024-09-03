@@ -1,17 +1,33 @@
 # WASSUP4
 ESTsoft AI서비스기획 전문가 양성 부트캠프 4기
 
-# ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=00498c&height=300&section=header&text=HI!I'M_JIHYEON!&fontSize=100)
+<img 
+src="https://capsule-render.vercel.app/api? 
+type=wave	
+&color=auto	
+&reversal=true 
+&height=300	
+&section=header	
+&text=HI!%20I'M%20JIHYEON_PARK!	
+&desc=안녕하세요 박지현입니다. 
+&textBg=true	
+&fontSize=90 	
+&fontColor=ffee00  
+&animation=fadeIn" 
+/>
 
 > 카카오모빌리티 사업기획팀 (2022.07 ~ 2024.03)
-- 주요 업무  카카오 T 바이크 사업/서비스 기획 및 운영
-- 역할 및 담당  카카오 T 바이크 월별 손익추정, 경영계획작성  주요KPI 관리 및 주간지표 모니터링 
--- 마케팅 프로모션 지원운영
--- 채널링(킥보드) 서비스 어드민 관리 
--- CX 이슈 관련 기획/운영
+- 주요 업무 : 카카오 T 바이크 사업/서비스 기획 및 운영
+- 역할 및 담당
+  1.카카오 T 바이크 월별 손익추정
+  2.경영계획작성
+  3.주요KPI 관리 및 주간지표 모니터링 
+  4.마케팅 프로모션 지원운영
+  5.채널링(킥보드) 서비스 어드민 관리 
+  6.CX 이슈 관련 기획/운영
 - 업무 성과 
--- 카카오모빌리티 아이디어 경진대회 은상 수상
--- 목표 매출액 달성을 위한 주요KPI 기반의 인사이트 제공
+  1.카카오모빌리티 아이디어 경진대회 은상 수상
+  2.목표 매출액 달성을 위한 주요KPI 기반의 인사이트 제공
 
 
 > 메일플러그 솔루션기획팀 (2021.01 ~ 2022.07)
