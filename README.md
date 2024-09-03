@@ -3,6 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=add8e6&height=300&section=header&text=🥳HI!I'M%20JIHYEON!🥳&fontSize=70" />
 
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+
 > ### 카카오모빌리티 사업기획팀 (2022.07 ~ 2024.03)
 - 주요 업무 : 카카오 T 바이크 사업/서비스 기획 및 운영
 - 역할 및 담당<br>
