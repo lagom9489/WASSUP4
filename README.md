@@ -1,11 +1,6 @@
 # WASSUP4
 ### ESTsoft AI서비스기획 전문가 양성 부트캠프 4기 기획자, 박지현
 
-|연락수단|내용|
-|------|---|
-|인스타그램|@exa_mart_|
-|이메일|lagom_esg@naver.com|
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=add8e6&height=300&section=header&text=🥳HI!I'M%20JIHYEON!🥳&fontSize=70" />
 
 
@@ -35,5 +30,9 @@
   3. 사내 배포 앱 QA 총괄 (다수의 urgency 이슈 발행)<br> 
   4. 사내 서비스 정책 작성 및 legacy 분석
 
+|연락수단|내용|
+|------|---|
+|인스타그램|@exa_mart_|
+|이메일|lagom_esg@naver.com|
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&text=GOOD-BYE👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&text=GOOD-BYE👋&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
