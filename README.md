@@ -36,5 +36,3 @@
 |<img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=naver&logoColor=white"/>|lagom_esg@naver.com|
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=add8e6&height=300&section=header&text=👋GOOD-BYE!👋&fontSize=70" />
-
-![slice](https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&text=GOOD-BYE👋&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
